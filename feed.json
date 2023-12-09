@@ -5,6 +5,14 @@
     "home_page_url": "https://github.com/ruibotu/ruibotu.github.io.git",
     "items": [
         {
+            "id": "https://github.com/ruibotu/ruibotu.github.io.git/2023/12/10/My-New-Post/",
+            "url": "https://github.com/ruibotu/ruibotu.github.io.git/2023/12/10/My-New-Post/",
+            "title": "My New Post",
+            "date_published": "2023-12-09T18:33:33.000Z",
+            "content_html": "",
+            "tags": []
+        },
+        {
             "id": "https://github.com/ruibotu/ruibotu.github.io.git/2023/12/10/hello-world/",
             "url": "https://github.com/ruibotu/ruibotu.github.io.git/2023/12/10/hello-world/",
             "title": "Hello World",

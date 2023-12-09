@@ -3,7 +3,14 @@
     <id>https://github.com/ruibotu/ruibotu.github.io.git</id>
     <title>Bobozzz</title>
     <link href="https://github.com/ruibotu/ruibotu.github.io.git" />
-    <updated>2023-12-09T18:02:32.923Z</updated>
+    <updated>2023-12-09T18:33:33.000Z</updated>
+    <entry>
+        <id>https://github.com/ruibotu/ruibotu.github.io.git/2023/12/10/My-New-Post/</id>
+        <title>My New Post</title>
+        <link rel="alternate" href="https://github.com/ruibotu/ruibotu.github.io.git/2023/12/10/My-New-Post/"/>
+        <content type="html"></content>
+        <updated>2023-12-09T18:33:33.000Z</updated>
+    </entry>
     <entry>
         <id>https://github.com/ruibotu/ruibotu.github.io.git/2023/12/10/hello-world/</id>
         <title>Hello World</title>
