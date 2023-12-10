@@ -3,10 +3,30 @@
     <channel>
         <title>Bobozzz</title>
         <link>https://turuibo.com</link>
-        <description>peace and love</description>
+        <description>Peace and Love</description>
         <language>zh-CN</language>
-        <pubDate>Sun, 10 Dec 2023 02:33:33 +0800</pubDate>
-        <lastBuildDate>Sun, 10 Dec 2023 02:33:33 +0800</lastBuildDate>
+        <pubDate>Sun, 10 Dec 2023 17:54:04 +0800</pubDate>
+        <lastBuildDate>Sun, 10 Dec 2023 17:54:04 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">https://turuibo.com/2023/12/10/%E4%B8%80/</guid>
+            <title>一、建站之初</title>
+            <link>https://turuibo.com/2023/12/10/%E4%B8%80/</link>
+            <pubDate>Sun, 10 Dec 2023 17:54:04 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;    从搭建个人网站到现在也快两年了，期间尝试了各种主题，写好的内容也总是删删改改。&lt;/p&gt;
+&lt;p&gt;    最初由于兴趣便建立了这个网站，也花费了不少时间和金钱。&lt;/p&gt;
+&lt;p&gt;    仔细想来，不管留下什么也可以令自己满足了，那就再这里胡乱写写吧，同时也把网站的美化过程记录下来。&lt;/p&gt;
+&lt;p&gt;    12 月 10 日更新：由于 Shoka 主题的 Valine 评论系统一直设置失败，所以更换为 ShokaX 主题，并且终于成功设置 Waline 评论系统。&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://turuibo.com/2023/12/10/test/</guid>
+            <title>test</title>
+            <link>https://turuibo.com/2023/12/10/test/</link>
+            <pubDate>Sun, 10 Dec 2023 17:54:04 +0800</pubDate>
+            <description><![CDATA[ &lt;pre&gt;&lt;code&gt;本文首先用于感谢博主Yume Shoka并测试各种~~功能、代码~~乱七八糟的东西。
+&lt;/code&gt;&lt;/pre&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://turuibo.com/2023/12/10/My-New-Post/</guid>
             <title>My New Post</title>

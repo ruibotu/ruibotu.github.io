@@ -1,9 +1,25 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "Bobozzz",
-    "description": "peace and love",
+    "description": "Peace and Love",
     "home_page_url": "https://turuibo.com",
     "items": [
+        {
+            "id": "https://turuibo.com/2023/12/10/%E4%B8%80/",
+            "url": "https://turuibo.com/2023/12/10/%E4%B8%80/",
+            "title": "一、建站之初",
+            "date_published": "2023-12-10T09:54:04.169Z",
+            "content_html": "<p>    从搭建个人网站到现在也快两年了，期间尝试了各种主题，写好的内容也总是删删改改。</p>\n<p>    最初由于兴趣便建立了这个网站，也花费了不少时间和金钱。</p>\n<p>    仔细想来，不管留下什么也可以令自己满足了，那就再这里胡乱写写吧，同时也把网站的美化过程记录下来。</p>\n<p>    12 月 10 日更新：由于 Shoka 主题的 Valine 评论系统一直设置失败，所以更换为 ShokaX 主题，并且终于成功设置 Waline 评论系统。</p>\n",
+            "tags": []
+        },
+        {
+            "id": "https://turuibo.com/2023/12/10/test/",
+            "url": "https://turuibo.com/2023/12/10/test/",
+            "title": "test",
+            "date_published": "2023-12-10T09:54:04.168Z",
+            "content_html": "<pre><code>本文首先用于感谢博主Yume Shoka并测试各种~~功能、代码~~乱七八糟的东西。\n</code></pre>\n",
+            "tags": []
+        },
         {
             "id": "https://turuibo.com/2023/12/10/My-New-Post/",
             "url": "https://turuibo.com/2023/12/10/My-New-Post/",

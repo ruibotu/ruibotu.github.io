@@ -3,7 +3,27 @@
     <id>https://turuibo.com</id>
     <title>Bobozzz</title>
     <link href="https://turuibo.com" />
-    <updated>2023-12-09T18:33:33.000Z</updated>
+    <updated>2023-12-10T09:54:04.169Z</updated>
+    <entry>
+        <id>https://turuibo.com/2023/12/10/%E4%B8%80/</id>
+        <title>一、建站之初</title>
+        <link rel="alternate" href="https://turuibo.com/2023/12/10/%E4%B8%80/"/>
+        <content type="html">&lt;p&gt;    从搭建个人网站到现在也快两年了，期间尝试了各种主题，写好的内容也总是删删改改。&lt;/p&gt;
+&lt;p&gt;    最初由于兴趣便建立了这个网站，也花费了不少时间和金钱。&lt;/p&gt;
+&lt;p&gt;    仔细想来，不管留下什么也可以令自己满足了，那就再这里胡乱写写吧，同时也把网站的美化过程记录下来。&lt;/p&gt;
+&lt;p&gt;    12 月 10 日更新：由于 Shoka 主题的 Valine 评论系统一直设置失败，所以更换为 ShokaX 主题，并且终于成功设置 Waline 评论系统。&lt;/p&gt;
+</content>
+        <updated>2023-12-10T09:54:04.169Z</updated>
+    </entry>
+    <entry>
+        <id>https://turuibo.com/2023/12/10/test/</id>
+        <title>test</title>
+        <link rel="alternate" href="https://turuibo.com/2023/12/10/test/"/>
+        <content type="html">&lt;pre&gt;&lt;code&gt;本文首先用于感谢博主Yume Shoka并测试各种~~功能、代码~~乱七八糟的东西。
+&lt;/code&gt;&lt;/pre&gt;
+</content>
+        <updated>2023-12-10T09:54:04.168Z</updated>
+    </entry>
     <entry>
         <id>https://turuibo.com/2023/12/10/My-New-Post/</id>
         <title>My New Post</title>
