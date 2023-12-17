@@ -3,7 +3,26 @@
     <id>https://turuibo.com</id>
     <title>Bobozzz</title>
     <link href="https://turuibo.com" />
-    <updated>2023-12-10T09:54:04.169Z</updated>
+    <updated>2023-12-17T07:51:34.173Z</updated>
+    <entry>
+        <id>https://turuibo.com/2023/12/17/%E4%BA%8C/</id>
+        <title>但行好事，莫问前程————记2023年（生活篇）</title>
+        <link rel="alternate" href="https://turuibo.com/2023/12/17/%E4%BA%8C/"/>
+        <content type="html">&lt;p&gt;    因为工作的原因，需要对 2023 年进行一个总结，翻看手机里面的图片，回想起当时的感受，有了写下什么的冲动，但语文也就 60 分的水平，权当流水账记下来，想到什么写下什么。有些事情回忆到一半，算了，伤心的事情就过去了。&lt;/p&gt;
+&lt;h1 id=&#34;一月&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一月&#34;&gt;#&lt;/a&gt; 一月&lt;/h1&gt;
+&lt;p&gt;    新年第一天，白云山登高，盼望自己全年可以顺顺利利，平平安安。&lt;br /&gt;
+&lt;img data-src=&#34;/assets/baiyunshan.jpg&#34; alt=&#34;图片alt&#34; title=&#34;白云山&#34; /&gt;&lt;/p&gt;
+&lt;h1 id=&#34;四月&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#四月&#34;&gt;#&lt;/a&gt; 四月&lt;/h1&gt;
+&lt;p&gt;    月初得知奶奶患病的消息，于是在网上查找资料，寻找医院和医生，看检查结果报告，查找治疗方案。做一些力所能及的事情，主要还是大伯和小姑出力，有时也感觉自己是个废物。&lt;/p&gt;
+&lt;h1 id=&#34;五月&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#五月&#34;&gt;#&lt;/a&gt; 五月&lt;/h1&gt;
+&lt;p&gt;    我搬家了，从天河市中心搬到黄埔郊区，原来 40 分钟的通勤时间增加到了 70 分钟。奶奶来广州进行手术。&lt;/p&gt;
+&lt;h1 id=&#34;七月八月&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#七月八月&#34;&gt;#&lt;/a&gt; 七月 &amp;amp; 八月&lt;/h1&gt;
+&lt;p&gt;    七月的 Outing 和八月的生日庆祝是全年中的欢乐时光，能有这些也是心满意足的，从来不敢奢求太多。&lt;/p&gt;
+&lt;h1 id=&#34;九月-十月-十一月&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#九月-十月-十一月&#34;&gt;#&lt;/a&gt; 九月、十月、十一月&lt;/h1&gt;
+&lt;p&gt;    没有太多回忆，照常工作，照常生活。&lt;/p&gt;
+</content>
+        <updated>2023-12-17T07:51:34.173Z</updated>
+    </entry>
     <entry>
         <id>https://turuibo.com/2023/12/10/%E4%B8%80/</id>
         <title>一、建站之初</title>
@@ -23,8 +42,12 @@
         <id>https://turuibo.com/2023/12/10/test/</id>
         <title>test</title>
         <link rel="alternate" href="https://turuibo.com/2023/12/10/test/"/>
-        <content type="html">&lt;pre&gt;&lt;code&gt;本文首先用于感谢博主Yume Shoka并测试各种~~功能、代码~~乱七八糟的东西。
-&lt;/code&gt;&lt;/pre&gt;
+        <content type="html">&lt;p&gt;    本文首先用于感谢 ShokaX 的主题团队并测试各种&lt;s&gt;功能、代码&lt;/s&gt;乱七八糟的东西。&lt;/p&gt;
+&lt;h1 id=&#34;front-matter&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#front-matter&#34;&gt;#&lt;/a&gt; Front-matter&lt;/h1&gt;
+&lt;h2 id=&#34;常用字段&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#常用字段&#34;&gt;#&lt;/a&gt; 常用字段&lt;/h2&gt;
+&lt;p&gt;1、title 标题&lt;br /&gt;
+ 2、date 日期&lt;br /&gt;
+ 3、cover 封面图&lt;/p&gt;
 </content>
         <updated>2023-12-10T09:54:04.168Z</updated>
     </entry>
