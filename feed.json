@@ -1,6 +1,8 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "刻刻",
+    "subtitle": "",
+    "icon": "http://example.com/assets/favicon.ico",
     "description": "jiaoluo",
     "home_page_url": "http://example.com",
     "items": [

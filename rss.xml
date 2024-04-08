@@ -2,7 +2,12 @@
 <rss version="2.0">
     <channel>
         <title>刻刻</title>
+        <subtitle></subtitle>
+        <icon>http://example.com/assets/favicon.ico</icon>
         <link>http://example.com</link>
+        <author>
+          <name>bobo</name>
+        </author>
         <description>jiaoluo</description>
         <language>zh-CN</language>
         <pubDate>Tue, 09 Apr 2024 00:26:48 +0800</pubDate>
